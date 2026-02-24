@@ -27,3 +27,4 @@ Happy Learnig Devs ;
 *vite as our Bundler
 *npm i sass - For using Scss in Our react Project
 *using [react-rnd] for minimized windows/ Screens
+*using react-markdown To Show marked Down format Note Window Context.
