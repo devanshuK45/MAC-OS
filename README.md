@@ -28,3 +28,4 @@ Happy Learnig Devs ;
 *npm i sass - For using Scss in Our react Project
 *using [react-rnd] for minimized windows/ Screens
 *using react-markdown To Show marked Down format Note Window Context.
+*used react-syntax-highlighter to highlight the description in note window 
