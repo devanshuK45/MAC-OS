@@ -3,7 +3,7 @@ import MacWindow from './MacWindow'
 import Terminal from 'react-console-emulator'
 import "./cli.scss"
 
-const Cli = () => {
+const Cli = ({windowName, setWindowState}) => {
   const portfolioCommands = {
     about: {
       description: 'Quick intro about me',
@@ -57,7 +57,7 @@ const Cli = () => {
   ].join('\n')
 
   return (
-    <MacWindow>
+    <MacWindow windowName={windowName} setWindowState={setWindowState}>
         <div className="cli-window">
             <Terminal 
             commands ={portfolioCommands}
