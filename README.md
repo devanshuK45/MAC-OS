@@ -29,3 +29,4 @@ Happy Learnig Devs ;
 *using [react-rnd] for minimized windows/ Screens
 *using react-markdown To Show marked Down format Note Window Context.
 *used react-syntax-highlighter to highlight the description in note window 
+*used react-console-emulator For creating a fake Terminal window(not really)
